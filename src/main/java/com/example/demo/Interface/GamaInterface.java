@@ -9,7 +9,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author USUARIO
+ * @author JUSTRO
  */
 public interface GamaInterface extends CrudRepository <Gama, Integer>{
     

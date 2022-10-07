@@ -12,7 +12,7 @@ import java.io.Serializable;
 import java.util.List;
 /**
  *
- * @author USUARIO
+ * @author JUSTRO
  */
 @Entity
 @Table(name = "car")
